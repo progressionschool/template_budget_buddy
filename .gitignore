@@ -1,0 +1,47 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment directories
+.venv/
+venv/
+env/
+ENV/
+.virtualenv/
+
+# Environment variables / secrets
+.env
+.env.*
+secrets.env
+
+# macOS files
+.DS_Store
+
+# Database files (SQLite or any local db)
+*.db
+*.sqlite3
+*.sqlite
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+
